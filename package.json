@@ -1,0 +1,20 @@
+{
+  "name": "questionappcomponents",
+  "version": "1.0.0",
+  "description": "Reusable Components for Question App",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsteff/QuestionAppCompoonents.git"
+  },
+  "author": "Tim Steff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsteff/QuestionAppCompoonents/issues"
+  },
+  "homepage": "https://github.com/tsteff/QuestionAppCompoonents#readme"
+}
